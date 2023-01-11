@@ -6,12 +6,12 @@ title: Abhijeet Rathod
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graduate Student, Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Texas, Arlington
-    url: https://www.stanford.edu/
+    url: https://www.uta.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
