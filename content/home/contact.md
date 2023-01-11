@@ -37,7 +37,7 @@ content:
     - icon: linkedin
       icon_pack: fab
       name: Let's connect!
-      link: 'https://www.linkedin.com/in/abhijeet-rathod17/
+      link: 'https://www.linkedin.com/in/abhijeet-rathod17/'
 
 design:
   columns: '2'
