@@ -36,12 +36,12 @@ experience:
         * Assisted as Graduate Teaching Assistant to deliver quality lectures, providing guidance to 50+ students for academic projects.
 
   - title: Software Developer
-    company: SM Technologies Solutions
+    company: SM Techno Consultants
     company_url: ''
     company_logo: ''
     location: Surat, India
     date_start: '2020-01-01'
-    date_end: '2020-11-31'
+    date_end: '2020-11-30'
     description: |2-
     
         * Delivered a Java and rest API backend application to issue e-challans, reducing traffic violations by 10%.
