@@ -61,7 +61,6 @@ experience:
         * Mentored 4 interns in 2 projects using Jira & Git version control, resulting in successful project completion. 
         * Streamlined bug-fixing process through analyzing code and debugging applications to improve efficiency by 30%.
 
-
 design:
   columns: '2'
 ---
