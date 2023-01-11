@@ -33,16 +33,34 @@ experience:
     
         * Facilitated supervision of regular website updates for six months which yielded a 20% decrease in technical errors. 
         * Spearheaded implementation of three software to optimize video editing process, resulting in a 10% time reduction. 
-        * Assisted as Graduate Teaching Assistant to deliver quality lectures, providing guidance on student projects.
+        * Assisted as Graduate Teaching Assistant to deliver quality lectures, providing guidance to 50+ students for academic projects.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Software Developer
+    company: SM Technologies Solutions
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: ''
+    location: Surat, India
+    date_start: '2020-01-01'
+    date_end: '2020-11-31'
+    description: |2-
+    
+        * Delivered a Java and rest API backend application to issue e-challans, reducing traffic violations by 10%.
+        * Developed full-stack application using Java, Spring Boot, React & Node.js to generate an additional $10k in revenue. 
+        * Engineered multiple Python scripts to scrape data for the data team which improved analysis accuracy by 20%.
+
+  - title: Software Developer Intern
+    company: Divine IT Hub
+    company_url: ''
+    company_logo: ''
+    location: Ahmedabad, India
+    date_start: '2019-05-01'
+    date_end: '2019-12-31'
+    description: |2-
+    
+        * Coordinated implementation of various Inventory Management System versions, optimizing performance by 6%. 
+        * Mentored 4 interns in 2 projects using Jira & Git version control, resulting in successful project completion. 
+        * Streamlined bug-fixing process through analyzing code and debugging applications to improve efficiency by 30%.
+
 
 design:
   columns: '2'
