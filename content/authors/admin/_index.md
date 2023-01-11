@@ -14,7 +14,7 @@ organizations:
     url: https://www.uta.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Looking for full-time Software Engineering roles starting from January 2023. Please reach out if you think I am a good fit at your organization.
 
 # Interests to show in About widget
 interests:
