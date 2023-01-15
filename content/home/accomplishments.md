@@ -29,7 +29,7 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: AWS Fundamentals: Going Cloud Native
+    title: AWS Fundamentals Going Cloud Native
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
