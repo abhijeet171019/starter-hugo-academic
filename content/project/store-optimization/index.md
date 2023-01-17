@@ -30,7 +30,9 @@ url_video: ''
 slides: ""
 ---
 Tools and Technologies - Python, R, NumPy, Grocery Store Dataset
+
 • Utilized data from thousands of grocery transactions to optimize re-shelving by 50% based on the items purchased
 together.
+
 • Reduced entries by almost 30% by identifying and converting unique entries, items, and grocery departments into
 binary format.
