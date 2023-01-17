@@ -2,7 +2,7 @@
 title: Store Optimization
 summary: An academic research project to optimize re-shelving in in stores.
 tags:
-  - React
+  - Python
 date: ''
 
 # Optional external URL for project (replaces project detail page).
