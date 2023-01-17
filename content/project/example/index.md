@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Heuristic Distance between multiple cities
+summary: Pyhton GUI project to calculate diffferent type of distances between cities.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Python
+date: ''
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
